@@ -1,6 +1,5 @@
 package Section16_TestNG;
 
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
